@@ -60,9 +60,9 @@ status:
 
 ## 📊 GitHub Analytics
 
-![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpit7799&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpit7799&layout=compact&theme=tokyonight)
 
 ---
 
@@ -76,7 +76,7 @@ status:
 
 ## 🐍 Contribution Graph
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/arpit7799/arpit7799/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
