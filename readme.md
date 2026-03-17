@@ -94,7 +94,7 @@ DSA Engine        █████████░ 90%
 
 ## 🐍 CONTRIBUTION MATRIX
 
-![snake gif](https://github.com/arpit7799/arpit7799/blob/Understanding-Safety/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/arpit7799/arpit7799/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
