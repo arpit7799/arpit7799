@@ -1,5 +1,12 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=140&section=header"/>
+
 <h1 align="center">ARPIT PANDEY</h1>
-<h3 align="center">Software Engineer | AI & Cloud Systems</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Engineer;AI+%26+ML+Engineer;Backend+Developer;Cloud+Enthusiast;Building+Scalable+Systems" />
+</p>
+
+<h3 align="center">AI • Backend • Cloud Systems</h3>
 
 ---
 
@@ -23,67 +30,49 @@ status:
 
 ## ⚙️ Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-
-### 🧠 AI / ML
-![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)
-
-### ⚙️ Backend & Systems
-![FastAPI](https://img.shields.io/badge/FastAPI-green?logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?logo=express)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-black?logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?logo=github-actions)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-black?logo=git)
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![VS Code](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,fastapi,nodejs,express,mongodb,mysql,postgres,docker,aws,linux,git,github" />
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
-![Arpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpit7799&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpit7799&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit7799&layout=compact&theme=tokyonight" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpit7799&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=arpit7799&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arpit7799&theme=tokyo-night)
 
 ---
 
 ## 🚀 Engineering Projects
 
-- **Breathezee** → Smart air purification system with real-time monitoring  
+- **Breathezee** → IoT-based smart air purification system with real-time monitoring  
 - **PathPal** → Assistive navigation system for visually impaired users  
-- **Smart Eye** → AI-powered detection system (IoT + ML integration)  
+- **Smart Eye** → AI-powered detection system integrating IoT + ML models  
 
 ---
 
 ## 🐍 Contribution Graph
 
-![snake gif](https://github.com/arpit7799/arpit7799/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/arpit7799/arpit7799/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ## 🎯 Focus Areas
 
 - Advanced Data Structures & Algorithms  
-- Backend Engineering (APIs, Systems Design)  
+- Backend Engineering (APIs, System Design)  
 - Machine Learning & AI Systems  
 - Cloud-Native Development & Deployment  
 
@@ -94,3 +83,7 @@ status:
 > Build systems that scale.  
 > Solve problems that matter.  
 > Optimize relentlessly.
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
