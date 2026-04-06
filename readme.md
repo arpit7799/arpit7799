@@ -64,11 +64,12 @@ and what embedded + AI hardware can do at the edge.
 
 <br/>
 
-<table width="100%">
+<table>
 <tr>
+
 <td width="33%" valign="top" align="center">
 
-### ◈ Breathezee
+### ◈ Breathezee  
 `IoT` · `Embedded` · `AI`
 
 Smart air purification platform with real-time environmental telemetry. Fuses multi-sensor data into an intelligent closed-loop control system — automating air quality end-to-end.
@@ -76,21 +77,14 @@ Smart air purification platform with real-time environmental telemetry. Fuses mu
 **→ Automated what required manual monitoring.**
 
 </td>
-<td width="1%" align="center"><sub>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│</sub></td>
-<td width="33%" valign="top" align="center">
 
-### ◈ PathPal
-`Assistive Tech` · `Real-Time` · `Embedded`
-
-Navigation system for the visually impaired. Combines precision hardware with sub-100ms audio feedback for safe, independent navigation in dynamic environments.
-
-**→ Accessibility through precision engineering.**
-
+<td width="1%" align="center">
+<sub>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│</sub>
 </td>
-<td width="1%" align="center"><sub>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│</sub></td>
+
 <td width="33%" valign="top" align="center">
 
-### ◈ Smart Eye
+### ◈ Smart Eye  
 `Computer Vision` · `ML` · `IoT`
 
 AI-powered perception system integrating ML inference with IoT edge hardware — intelligent detection and tracking without the cloud.
@@ -98,7 +92,64 @@ AI-powered perception system integrating ML inference with IoT edge hardware —
 **→ ML inference at the edge, not the server.**
 
 </td>
+
+<td width="1%" align="center">
+<sub>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│</sub>
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### ◈ Valorant Map Explorer  
+`FastAPI` · `MySQL` · `Backend` · `Web`
+
+Backend-driven Valorant map exploration platform with API-based architecture. Handles structured data, dynamic queries, and efficient rendering of in-game map information.
+
+**→ Scalable backend with real-time data handling.**
+
+</td>
+
 </tr>
+
+<tr>
+
+<td width="33%" valign="top" align="center">
+
+### ◈ Supply Guard  
+`Python` · `psutil` · `IoT` · `Monitoring`
+
+Supply chain monitoring system using Python-based telemetry and system-level tracking (psutil). Enables real-time monitoring, anomaly detection, and operational insights.
+
+**→ System-level visibility with intelligent monitoring.**
+
+</td>
+
+<td width="1%" align="center">
+<sub>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│</sub>
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### ◈ OS Resource Manager *(Ongoing)*  
+`Operating Systems` · `C/C++` · `System Design`
+
+Custom OS-level resource management system focusing on process scheduling, memory allocation, and efficient system utilization.
+
+**→ Optimizing system performance at the core level.**
+
+</td>
+
+<td width="1%" align="center">
+<sub>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│</sub>
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<!-- Future Project -->
+
+</td>
+
+</tr>
+
 </table>
 
 ---
