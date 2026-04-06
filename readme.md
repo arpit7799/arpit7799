@@ -72,9 +72,9 @@ and what embedded + AI hardware can do at the edge.
 ### ◈ Breathezee  
 `IoT` · `Embedded` · `AI`
 
-Smart air purification platform with real-time environmental telemetry. Fuses multi-sensor data into an intelligent closed-loop control system — automating air quality end-to-end.
+Smart air purification platform with real-time environmental telemetry. Fuses multi-sensor data into an intelligent closed-loop control system.
 
-**→ Automated what required manual monitoring.**
+**→ Automated air quality control using sensor-driven intelligence.**
 
 </td>
 
@@ -87,9 +87,9 @@ Smart air purification platform with real-time environmental telemetry. Fuses mu
 ### ◈ Smart Eye  
 `Computer Vision` · `ML` · `IoT`
 
-AI-powered perception system integrating ML inference with IoT edge hardware — intelligent detection and tracking without the cloud.
+AI-powered edge system for real-time detection and tracking using on-device inference without cloud dependency.
 
-**→ ML inference at the edge, not the server.**
+**→ Low-latency edge intelligence with real-time detection.**
 
 </td>
 
@@ -99,12 +99,12 @@ AI-powered perception system integrating ML inference with IoT edge hardware —
 
 <td width="33%" valign="top" align="center">
 
-### ◈ Valorant Map Explorer  
-`FastAPI` · `MySQL` · `Backend` · `Web`
+### ◈ Valorant Web Platform  
+`Node.js` · `Express.js` · `MySQL` · `EJS`
 
-Backend-driven Valorant map exploration platform with API-based architecture. Handles structured data, dynamic queries, and efficient rendering of in-game map information.
+Full-stack web platform simulating a game ecosystem with authentication, store system, maps module, dashboard, and admin panel using dynamic database-driven rendering.
 
-**→ Scalable backend with real-time data handling.**
+**→ Complete backend-driven system with role-based control and CRUD operations.**
 
 </td>
 
@@ -115,26 +115,56 @@ Backend-driven Valorant map exploration platform with API-based architecture. Ha
 <td width="33%" valign="top" align="center">
 
 ### ◈ Supply Guard  
-`Python` · `psutil` · `IoT` · `Monitoring`
+`Python` · `AI` · `News API` · `Data Analysis`
 
-Supply chain monitoring system using Python-based telemetry and system-level tracking (psutil). Enables real-time monitoring, anomaly detection, and operational insights.
+AI-powered system to monitor global news and detect risks in import/export supply chains. Uses real-time data to identify disruptions and provide early alerts.
 
-**→ System-level visibility with intelligent monitoring.**
+**→ Predictive supply chain risk detection using live data sources.**
 
 </td>
 
 <td width="1%" align="center">
 <sub>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│</sub>
 </td>
+
+<td width="33%" valign="top" align="center">
+
+### ◈ MediFlow *(Android)*  
+`Android` · `Java` · `SQLite` · `Retrofit` · `Material UI`
+
+Healthcare mobile application for hospital management including patient risk assessment, OPD handling, queue estimation, bed tracking, and AI chatbot integration.
+
+**→ End-to-end healthcare workflow automation on mobile.**
+
+</td>
+
+<td width="1%" align="center">
+<sub>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│</sub>
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### ◈ Face Verification System  
+`Python` · `OpenCV` · `Face Recognition` · `ML`
+
+Real-time face verification system with identity matching and ongoing enhancements for improved accuracy and robustness.
+
+**→ Secure identity verification using computer vision.**
+
+</td>
+
+</tr>
+
+<tr>
 
 <td width="33%" valign="top" align="center">
 
 ### ◈ OS Resource Manager *(Ongoing)*  
-`Operating Systems` · `C/C++` · `System Design`
+`C/C++` · `Operating Systems` · `System Design`
 
-Custom OS-level resource management system focusing on process scheduling, memory allocation, and efficient system utilization.
+Custom system for managing process scheduling, memory allocation, and efficient resource utilization at OS level.
 
-**→ Optimizing system performance at the core level.**
+**→ Core-level system optimization and resource control.**
 
 </td>
 
@@ -144,7 +174,17 @@ Custom OS-level resource management system focusing on process scheduling, memor
 
 <td width="33%" valign="top" align="center">
 
-<!-- Future Project -->
+<!-- Future -->
+
+</td>
+
+<td width="1%" align="center">
+<sub>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│</sub>
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<!-- Future -->
 
 </td>
 
