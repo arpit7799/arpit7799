@@ -1,277 +1,157 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Arpit%20Pandey&fontSize=58&fontColor=ffffff&fontAlign=50&fontAlignY=42&desc=Software%20Engineer%20%E2%80%94%20AI%20%C2%B7%20Backend%20%C2%B7%20Cloud&descSize=16&descFontColor=ffffffbb&descAlignY=62&animation=fadeIn" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Arpit%20Pandey&fontSize=58&fontColor=ffffff&fontAlign=50&fontAlignY=42&desc=Software%20Engineer%20%E2%80%A2%20AI%20Engineer&descSize=16&descFontColor=ffffffbb&descAlignY=62&animation=fadeIn" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arpit7799&style=flat-square&color=D4AF72&label=PROFILE+VIEWS&labelColor=0d1117)
-&nbsp;
+
 [![GitHub followers](https://img.shields.io/github/followers/arpit7799?label=FOLLOWERS&style=flat-square&color=D4AF72&labelColor=0d1117&logo=github&logoColor=D4AF72)](https://github.com/arpit7799)
-&nbsp;
-![Status](https://img.shields.io/badge/STATUS-Open%20to%20Work-00e676?style=flat-square&labelColor=0d1117)
 
-<br/>
+![Status](https://img.shields.io/badge/STATUS-Open%20to%20Internships-00e676?style=flat-square&labelColor=0d1117)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=400&style=italic&size=21&duration=3500&pause=1200&color=D4AF72&center=true&vCenter=true&width=680&lines=Architecting+intelligent+systems+at+scale.;Where+precision+engineering+meets+real-world+impact.;AI+%C2%B7+Backend+%C2%B7+Cloud+%C2%B7+IoT.;Building+what+doesn%27t+exist+yet.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+intelligent+software+systems.;Software+Engineering+%E2%80%A2+AI+%E2%80%A2+Backend.;Currently+building+SYSAI.;Always+learning.+Always+building.)](https://git.io/typing-svg)
 
 </div>
 
-<br/>
-
 ---
 
-## 👤 &nbsp;About Me
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=arpit7799&show_icons=true&theme=tokyonight&hide_border=true&title_color=D4AF72&icon_color=D4AF72&text_color=c9d1d9&bg_color=0d1117&custom_title=GitHub+Stats&rank_icon=github" width="42%"/>
+# 👋 About Me
 
 ```yaml
-Name      : Arpit Pandey
-Role      : Software Engineer
-Domain    : AI · Backend · Cloud
-Status    : Open to Opportunities
-Location  : India
+Name       : Arpit Pandey
+Education  : B.Tech CSE (4th Semester)
+University : BML Munjal University
+Role       : Software Engineer | AI Engineer
+Focus      : AI • Backend • Systems Engineering
+Status     : Open to Internships
+Location   : India
 ```
 
-I build backend systems where **AI meets production reality.**
-My work lives at the intersection of intelligent computation
-and robust infrastructure — systems that **scale, fail gracefully,**
-and solve real-world problems.
+I'm a Computer Science student focused on Software Engineering, AI, and Backend Development.
 
-Currently focused on **distributed systems**, **ML pipelines**,
-and what embedded + AI hardware can do at the edge.
+I enjoy building production-oriented systems that combine intelligent decision-making with reliable software architecture. My interests include backend engineering, system design, AI applications, machine learning, and scalable software development.
 
-<br clear="right"/>
+Currently building **SYSAI**, an AI-powered system optimization platform, while strengthening my foundations in DSA, backend development, operating systems, DBMS, system design, and machine learning.
 
 ---
 
-## 🛠 &nbsp;Tech Stack
+# 🚀 Featured Projects
 
-<div align="center">
+## ◈ SYSAI (Flagship Project)
 
-| Languages | Backend | Databases | AI / ML | Cloud & DevOps |
-|:---:|:---:|:---:|:---:|:---:|
-| Python · C++ · JS | FastAPI · Node · Express | MongoDB · PostgreSQL · MySQL | TensorFlow · OpenCV · LangChain | AWS · Docker · Linux · Git |
+`AI` `FastAPI` `PostgreSQL` `Docker` `React` `Machine Learning`
 
-<br/>
+AI-powered system optimization platform that monitors system resources, predicts future utilization, detects anomalies, and autonomously recommends performance improvements.
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,fastapi,nodejs,express,mongodb,mysql,postgres,docker,aws,linux,git,github&theme=dark&perline=7" />
-
-</div>
-
----
-
-## 🚀 &nbsp;Featured Projects
-
-<br/>
-
-<table>
-<tr>
-
-<td width="33%" valign="top" align="center">
-
-### ◈ Breathezee  
-`IoT` · `Embedded` · `AI`
-
-Smart air purification platform with real-time environmental telemetry. Fuses multi-sensor data into an intelligent closed-loop control system.
-
-**→ Automated air quality control using sensor-driven intelligence.**
-
-</td>
-
-<td width="1%" align="center">
-<sub>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│</sub>
-</td>
-
-<td width="33%" valign="top" align="center">
-
-### ◈ Smart Eye  
-`Computer Vision` · `ML` · `IoT`
-
-AI-powered edge system for real-time detection and tracking using on-device inference without cloud dependency.
-
-**→ Low-latency edge intelligence with real-time detection.**
-
-</td>
-
-<td width="1%" align="center">
-<sub>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│</sub>
-</td>
-
-<td width="33%" valign="top" align="center">
-
-### ◈ Valorant Web Platform  
-`Node.js` · `Express.js` · `MySQL` · `EJS`
-
-Full-stack web platform simulating a game ecosystem with authentication, store system, maps module, dashboard, and admin panel using dynamic database-driven rendering.
-
-**→ Complete backend-driven system with role-based control and CRUD operations.**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top" align="center">
-
-### ◈ Supply Guard  
-`Python` · `AI` · `News API` · `Data Analysis`
-
-AI-powered system to monitor global news and detect risks in import/export supply chains. Uses real-time data to identify disruptions and provide early alerts.
-
-**→ Predictive supply chain risk detection using live data sources.**
-
-</td>
-
-<td width="1%" align="center">
-<sub>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│</sub>
-</td>
-
-<td width="33%" valign="top" align="center">
-
-### ◈ MediFlow *(Android)*  
-`Android` · `Java` · `SQLite` · `Retrofit` · `Material UI`
-
-Healthcare mobile application for hospital management including patient risk assessment, OPD handling, queue estimation, bed tracking, and AI chatbot integration.
-
-**→ End-to-end healthcare workflow automation on mobile.**
-
-</td>
-
-<td width="1%" align="center">
-<sub>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│</sub>
-</td>
-
-<td width="33%" valign="top" align="center">
-
-### ◈ Face Verification System  
-`Python` · `OpenCV` · `Face Recognition` · `ML`
-
-Real-time face verification system with identity matching and ongoing enhancements for improved accuracy and robustness.
-
-**→ Secure identity verification using computer vision.**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top" align="center">
-
-### ◈ OS Resource Manager *(Ongoing)*  
-`C/C++` · `Operating Systems` · `System Design`
-
-Custom system for managing process scheduling, memory allocation, and efficient resource utilization at OS level.
-
-**→ Core-level system optimization and resource control.**
-
-</td>
-
-<td width="1%" align="center">
-<sub>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│</sub>
-</td>
-
-<td width="33%" valign="top" align="center">
-
-<!-- Future -->
-
-</td>
-
-<td width="1%" align="center">
-<sub>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│</sub>
-</td>
-
-<td width="33%" valign="top" align="center">
-
-<!-- Future -->
-
-</td>
-
-</tr>
-
-</table>
+**Highlights**
+- Real-time system monitoring
+- Resource forecasting
+- Anomaly detection
+- Multi-agent architecture
+- Production-grade backend
 
 ---
 
-## 📊 &nbsp;GitHub Analytics
+## ◈ Smart Eye
 
-<div align="center">
+`Computer Vision` `AI` `IoT`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpit7799&layout=compact&theme=tokyonight&hide_border=true&title_color=D4AF72&text_color=c9d1d9&bg_color=0d1117" height="165"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com?user=arpit7799&theme=tokyonight-duo&hide_border=true&ring=D4AF72&fire=D4AF72&currStreakLabel=D4AF72&background=0d1117" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpit7799&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=D4AF72&line=7A6845&point=D4AF72&area=true" width="97%"/>
-
-</div>
+AI-powered edge intelligence platform for real-time object detection and monitoring.
 
 ---
 
-## 🏆 &nbsp;Trophies
+## ◈ Breathezee
 
-<div align="center">
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=arpit7799&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="97%"/>
-</div>
+`IoT` `Embedded Systems`
 
----
-
-## 🐍 &nbsp;Contribution Trail
-
-<div align="center">
-<br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arpit7799/arpit7799/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arpit7799/arpit7799/output/github-contribution-grid-snake.svg">
-  <img alt="snake animation" src="https://raw.githubusercontent.com/arpit7799/arpit7799/output/github-contribution-grid-snake-dark.svg" width="97%"/>
-</picture>
-</div>
+Smart air purification platform with real-time environmental monitoring and automated control.
 
 ---
 
-## 🎯 &nbsp;Current Focus
+## ◈ Supply Guard
 
-<table width="100%">
-<tr>
-<td width="50%">
+`Python` `AI` `Data Analysis`
 
-- `01` &nbsp; Scalable microservice architecture patterns
-- `02` &nbsp; Production ML deployment & edge inference
-- `03` &nbsp; Cloud-native systems on AWS
-
-</td>
-<td width="50%">
-
-- `04` &nbsp; Distributed systems & consensus protocols
-- `05` &nbsp; High-throughput backend system design
-- `06` &nbsp; LLM integration in production pipelines
-
-</td>
-</tr>
-</table>
+AI-powered supply chain risk detection system using real-time news monitoring and predictive analysis.
 
 ---
 
-## 🤝 &nbsp;Connect
+## ◈ MediFlow
 
-<div align="center">
-<br/>
+`Android` `Java` `SQLite`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=D4AF72)](https://linkedin.com/in/YOUR_LINKEDIN)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-arpit7799-0d1117?style=for-the-badge&logo=github&logoColor=D4AF72)](https://github.com/arpit7799)
-&nbsp;
-[![Email](https://img.shields.io/badge/Gmail-Reach%20Out-0d1117?style=for-the-badge&logo=gmail&logoColor=D4AF72)](mailto:YOUR_EMAIL)
+Healthcare workflow management platform with patient tracking and hospital automation.
 
-<br/><br/>
+---
 
-*" Complexity is the enemy of reliability. Build simple, scale far. "*
+## ◈ Valorant Web Platform
 
-<br/>
+`Node.js` `Express.js` `MySQL`
 
-</div>
+Full-stack platform featuring authentication, dashboards, admin panel, and role-based access control.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=130&section=footer" width="100%"/>
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
+
+## Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/NodeJS-111111?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express)
+
+## Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
+
+## AI / ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikitlearn)
+
+## Tools
+
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+
+---
+
+# 🎯 Current Focus
+
+- Building SYSAI into a production-grade platform
+- Advanced Data Structures & Algorithms
+- Backend Engineering with FastAPI
+- PostgreSQL & Database Design
+- Machine Learning Fundamentals
+- System Design & Distributed Systems
+- Software Engineering Internship Preparation
+
+---
+
+# 📫 Connect
+
+### LinkedIn
+https://www.linkedin.com/in/arpit-pandey-a26211320
+
+### GitHub
+https://github.com/arpit7799
+
+### Open To
+
+- Software Engineering Internships
+- AI Engineering Internships
+- Backend Development Internships
+
+---
+
+> "Build things that solve real problems. Learn deeply. Ship consistently."
