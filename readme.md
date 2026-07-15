@@ -92,6 +92,14 @@ AI-powered financial intelligence platform that automates annual report analysis
 
 **→ Enterprise Financial AI platform combining OCR, NLP, Machine Learning, and predictive analytics.**
 
+</td>
+
+<td width="1%" align="center">
+<sub>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│</sub>
+</td>
+
+<td width="33%" valign="top" align="center">
+
 ### ◈ Supply Guard
 `Python` · `AI` · `News API`
 
@@ -101,9 +109,9 @@ AI-driven tool to monitor global news feeds and detect supply chain disruption r
 
 </td>
 
-<td width="1%" align="center">
-<sub>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│</sub>
-</td>
+</tr>
+
+<tr>
 
 <td width="33%" valign="top" align="center">
 
@@ -121,7 +129,17 @@ Full-stack backend-heavy web application simulating a game ecosystem. Features J
 </td>
 
 <td width="33%" valign="top" align="center">
+</td>
 
+<td width="1%" align="center">
+<sub>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│</sub>
+</td>
+
+<td width="33%" valign="top" align="center">
+</td>
+
+</tr>
+</table>
 ---
 
 ## 📊 &nbsp;GitHub Analytics
