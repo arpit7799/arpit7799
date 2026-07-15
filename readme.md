@@ -85,35 +85,12 @@ AI-powered operating intelligence platform. Real-time system resource monitoring
 
 <td width="33%" valign="top" align="center">
 
-### ◈ Smart Eye
-`Computer Vision` · `ML` · `IoT`
+### ◈ FinSightAI
+`FastAPI` · `React` · `OCR` · `NLP` · `ML`
 
-AI-powered edge system for real-time object detection and tracking using on-device inference — no cloud dependency. Built during an internship; handles low-latency detection on constrained hardware.
+AI-powered financial intelligence platform that automates annual report analysis using OCR, Natural Language Processing, financial ratio analysis, Random Forest risk prediction, fraud detection, Prophet forecasting, and an interactive analytics dashboard with AI-generated insights.
 
-**→ Edge AI: inference without the cloud.**
-
-</td>
-
-<td width="1%" align="center">
-<sub>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│</sub>
-</td>
-
-<td width="33%" valign="top" align="center">
-
-### ◈ Breathezee
-`IoT` · `Embedded` · `AI`
-
-Smart air purification platform with multi-sensor telemetry and a closed-loop control system. Fuses real-time environmental data to drive automated hardware decisions.
-
-**→ Sensor-driven automation at the hardware layer.**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33%" valign="top" align="center">
+**→ Enterprise Financial AI platform combining OCR, NLP, Machine Learning, and predictive analytics.**
 
 ### ◈ Supply Guard
 `Python` · `AI` · `News API`
@@ -144,18 +121,6 @@ Full-stack backend-heavy web application simulating a game ecosystem. Features J
 </td>
 
 <td width="33%" valign="top" align="center">
-
-### ◈ MediFlow *(Android)*
-`Android` · `Java` · `SQLite` · `Retrofit`
-
-Healthcare app for hospital workflow management: patient risk assessment, OPD queue estimation, bed tracking, and an AI chatbot interface — built in Java on Android.
-
-**→ Mobile-first healthcare system, end-to-end.**
-
-</td>
-
-</tr>
-</table>
 
 ---
 
