@@ -100,6 +100,21 @@ AI-powered financial intelligence platform that automates annual report analysis
 
 <td width="33%" valign="top" align="center">
 
+### ◈ Customer Churn Prediction
+`Python` · `Scikit-Learn` · `XGBoost` · `EDA`
+
+End-to-end machine learning project for customer segmentation and churn prediction using the Telco Customer Churn Dataset. Includes data preprocessing, exploratory data analysis, feature engineering, model comparison across five classifiers, feature importance analysis, and business recommendations.
+
+**→ Complete ML pipeline with predictive analytics and interpretable business insights.**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top" align="center">
+
 ### ◈ Supply Guard
 `Python` · `AI` · `News API`
 
@@ -109,9 +124,9 @@ AI-driven tool to monitor global news feeds and detect supply chain disruption r
 
 </td>
 
-</tr>
-
-<tr>
+<td width="1%" align="center">
+<sub>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│</sub>
+</td>
 
 <td width="33%" valign="top" align="center">
 
@@ -129,13 +144,7 @@ Full-stack backend-heavy web application simulating a game ecosystem. Features J
 </td>
 
 <td width="33%" valign="top" align="center">
-</td>
 
-<td width="1%" align="center">
-<sub>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│</sub>
-</td>
-
-<td width="33%" valign="top" align="center">
 </td>
 
 </tr>
